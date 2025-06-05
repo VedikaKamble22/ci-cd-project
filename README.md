@@ -42,8 +42,6 @@ A simple Node.js app is containerized using Docker. GitHub Actions is used to au
 
 ## 📷 Screenshots
 
-> (Include these screenshots in your project or report)
-
 - ✅ GitHub Actions successful run
 - ✅ DockerHub repo showing image tag
 
