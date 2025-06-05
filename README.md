@@ -53,7 +53,7 @@ A simple Node.js app is containerized using Docker. GitHub Actions is used to au
 
 If enabled, the built Docker image is pushed to:
 
-👉 [https://hub.docker.com/repository/docker/vedikakamble22/ci-cd-project](https://hub.docker.com/repository/docker/vedikakamble22/ci-cd-project)
+👉 [https://hub.docker.com/repository/docker/vedikakamble22/ci-cd-project](https://hub.docker.com/repository/docker/vedikakamble/ci-cd-project/general)
 
 ---
 
